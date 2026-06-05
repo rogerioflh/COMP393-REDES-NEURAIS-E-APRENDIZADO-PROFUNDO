@@ -1,0 +1,19 @@
+# Python/Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Android/Gradle generated files
+.gradle/
+**/.gradle/
+build/
+**/build/
+local.properties
+*.apk
+*.aab
+
+# Segmentation training artifacts generated locally
+app_segmentation/training/data/
+app_segmentation/training/*.pth

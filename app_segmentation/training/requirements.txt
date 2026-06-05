@@ -1,0 +1,4 @@
+torchmetrics
+opencv-python
+matplotlib
+tqdm
